@@ -19,7 +19,7 @@
     "base64-arraybuffer": "0.1.5",
     "component-bind": "1.0.0",
     "component-emitter": "1.2.1",
-    "debug": "~4.1.0",
+    "debug": "~4.3.1",
     "engine.io-client": "dooly-ai/engine.io-client#97495cee53555d7f3b3d3b9682234fa1848d2097",
     "has-binary2": "~1.0.2",
     "has-cors": "1.1.0",
